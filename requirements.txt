@@ -1,6 +1,3 @@
-pytest
-allure-pytest
-selene>=2.0.0rc4
-selenium
-pydantic_settings
-pydantic
+allure-pytest==2.13.5
+pytest==8.2.2
+selene==2.0.0rc9
